@@ -18,12 +18,17 @@ I didn't encounter any difficulties creating the charts or when manipulating the
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The launch date of a theater kickstarters appears to have a strong relationship with its outcome. However, more data is needed to explain/confirm the correlation. For example, the socio-economic status of donors, their locations, and if the spike is due to predictable circumstances like tax refunds.
 
 - What can you conclude about the Outcomes based on Goals?
+
 There appears to be a weaker correlation between the outcomes and its goal. The relationship appears to only be significant at either end of the data set. The middle of the data set hovers around 50% successful suggesting the goals of the kickstarters may not be the best variable for predictive analysis.
 
 - What are some limitations of this dataset?
+
 A big limitation is the geographic sorting. If the data included specific cities of the kickstarters the analysis would be more accurate. For example, a kickstarter in New York for a theater production would probably have a greater odd of success than if it were launched in Boca Chica.
 
 - What are some other possible tables and/or graphs that we could create?
+
+Graphing the relationship between staff picks and success would be useful. Assuming the kickstarter staff have analytical procedures for their decision, it could be useful to draw from their internal analytical tools which I would assume is more in depth incorporating more variables, and a much larger dataset.
